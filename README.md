@@ -1,4 +1,4 @@
-<div style="position: fixed; bottom: 0px;left: 10px;width:180px;height:250px;"><img src="https://2.bp.blogspot.com/-xE0ERrqtr3A/U4Wo8xhI8XI/AAAAAAAAAmo/BBFPxxSoyck/s1600/ItachiySasuke12.gif" /></div>
+<div style="position: fixed; bottom: 0px;left: 10px;width:130px;height:160px;"><img src="https://2.bp.blogspot.com/-7I6T61lxO_E/U4WoH1232aI/AAAAAAAAAmg/mqBfJoUB0mw/s1600/animasi-bergerak-naruto-melawan-sasuke.gif" /></div>
 
 
 
